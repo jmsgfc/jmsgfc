@@ -172,7 +172,7 @@ No activity tracked
 
 <table width="100%">
 <tr>
-<td width="36%" valign="top" align="left">
+<td width="30%" valign="top" align="left">
 
 ### What I'm Working On
 
@@ -187,9 +187,9 @@ No activity tracked
 - Staying open to collaboration and interesting ideas  
 
 </td>
-<td width="64%" align="center" valign="top">
+<td width="70%" align="center" valign="top">
 
-<img src="./assets/code-mode-wide.png" width="100%" alt="Code Mode" />
+<img src="./assets/code-mode-focus.png" width="100%" alt="Code Mode" />
 
 </td>
 </tr>
