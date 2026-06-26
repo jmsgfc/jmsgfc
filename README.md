@@ -170,10 +170,6 @@ No activity tracked
 
 ## 🎯 Current Focus
 
-<table width="100%">
-<tr>
-<td width="26%" valign="top" align="left">
-
 ### What I'm Working On
 
 - Building production-ready SaaS products  
@@ -186,14 +182,9 @@ No activity tracked
 - Contributing to open source and learning in public  
 - Staying open to collaboration and interesting ideas  
 
-</td>
-<td width="74%" align="center" valign="top">
-
-<img src="./assets/code-mode-focus.png" width="100%" alt="Code Mode" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/code-mode-focus.png" width="100%" alt="Code Mode" />
+</p>
 
 ---
 
