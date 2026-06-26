@@ -1,42 +1,35 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td align="left">
-  <sub><b>jmsgfc</b> / README.md</sub>
-</td>
-<td align="right">
-  <img src="https://komarev.com/ghpvc/?username=jmsgfc&label=Visitor&color=2f80ed&style=flat" />
-</td>
-</tr>
-</table>
-
-<br/>
-
 <img src="./assets/banner.png" width="100%" alt="Jmsgfc Banner" />
 
 <br/>
+
+<p align="center">
+  <a href="https://www.jmsgfc.me">
+    <img src="https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=google-chrome&logoColor=334155&labelColor=ffffff&color=e8eef8" />
+  </a>
+  <a href="https://github.com/jmsgfc">
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=181717&labelColor=ffffff&color=e8eef8" />
+  </a>
+  <a href="https://www.linkedin.com/in/jmsgfc-huang">
+    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff&color=e8eef8" />
+  </a>
+  <a href="https://x.com/jmsgfcc">
+    <img src="https://img.shields.io/badge/X-ffffff?style=for-the-badge&logo=x&logoColor=000000&labelColor=ffffff&color=e8eef8" />
+  </a>
+  <a href="https://discord.com/users/jmsgfc">
+    <img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=ffffff&color=e8eef8" />
+  </a>
+  <a href="mailto:a1554561752@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff&color=e8eef8" />
+  </a>
+</p>
 
 <h3 align="center">✨ Full-Stack Developer · AI & Web Enthusiast · Lifelong Learner</h3>
 
 <p align="center">
   I build modern, scalable, and user-friendly applications.<br/>
   Passionate about turning ideas into real-world products with <b>React</b>, <b>Next.js</b>, <b>TypeScript</b>, <b>Python</b>, and <b>Node.js</b>.
-</p>
-
-<p align="center">
-  <a href="https://github.com/jmsgfc">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:3238921228@mail.fjut.edu.cn">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/你的用户名">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/你的用户名">
-    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
 </p>
 
 </div>
@@ -113,9 +106,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmsgfc/jmsgfc/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmsgfc/jmsgfc/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jmsgfc/jmsgfc/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmsgfc/jmsgfc/main/assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmsgfc/jmsgfc/main/assets/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jmsgfc/jmsgfc/main/assets/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -208,7 +201,7 @@
 </table>
 
 <p align="center">
-  <a href="https://github.com/jmsgfc?tab=repositories">
+  <a href="https://www.jmsgfc.me">
     <b>View more repositories →</b>
   </a>
 </p>
@@ -226,13 +219,13 @@
 ## 💌 Connect With Me
 
 <p align="center">
-  <a href="https://你的个人网站.com">
+  <a href="https://www.jmsgfc.me">
     <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=google-chrome&logoColor=333&labelColor=ffffff&color=e5eaf2" />
   </a>
   <a href="https://github.com/jmsgfc">
     <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=181717&labelColor=ffffff&color=e5eaf2" />
   </a>
-  <a href="https://linkedin.com/in/你的用户名">
+  <a href="https://www.linkedin.com/in/jmsgfc-huang">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff&color=e5eaf2" />
   </a>
   <a href="https://x.com/你的用户名">
@@ -241,7 +234,7 @@
   <a href="https://discord.gg/你的邀请链接">
     <img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=ffffff&color=e5eaf2" />
   </a>
-  <a href="mailto:3238921228@mail.fjut.edu.cn">
+  <a href="mailto:a1554561752@gmail.com">
     <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff&color=e5eaf2" />
   </a>
 </p>

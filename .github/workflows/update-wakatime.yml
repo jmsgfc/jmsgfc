@@ -1,0 +1,41 @@
+name: Update WakaTime Stats
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/update-wakatime.yml
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  HAS_WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY != '' }}
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Notice missing WakaTime secret
+        if: env.HAS_WAKATIME_API_KEY != 'true'
+        run: echo "::notice::Set the WAKATIME_API_KEY repository secret to enable WakaTime updates."
+
+      - name: Update WakaTime section
+        if: env.HAS_WAKATIME_API_KEY == 'true'
+        uses: athul/waka-readme@master
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka
+          SHOW_TIME: true
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 8
+          SHOW_TOTAL: true
