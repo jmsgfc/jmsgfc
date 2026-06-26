@@ -149,7 +149,7 @@ No activity tracked
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Preparing my GitHub profile README.
+1. Preparing my GitHub profile README.
 <!--END_SECTION:activity-->
 
 ---
@@ -160,12 +160,12 @@ No activity tracked
 <tr>
 <td width="50%" valign="middle" align="left">
 
-- 🚀 Building production-ready SaaS products  
-- 📚 Learning System Design & DevOps  
-- 🤖 Exploring AI Agent / MCP / Web3 technologies  
-- 🧩 Contributing to Open Source  
-- 🌱 Continuously improving engineering skills  
-- 🤝 Open to collaboration and interesting ideas  
+- Building production-ready SaaS products  
+- Learning system design and DevOps  
+- Exploring AI agents, MCP, and Web3 technologies  
+- Contributing to open source  
+- Continuously improving engineering skills  
+- Open to collaboration and interesting ideas  
 
 </td>
 <td width="50%" align="center">
@@ -235,10 +235,10 @@ No activity tracked
   <a href="https://www.linkedin.com/in/jmsgfc-huang">
     <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff&color=e5eaf2" />
   </a>
-  <a href="https://x.com/你的用户名">
+  <a href="https://x.com/jmsgfcc">
     <img src="https://img.shields.io/badge/Twitter_/_X-ffffff?style=for-the-badge&logo=x&logoColor=000000&labelColor=ffffff&color=e5eaf2" />
   </a>
-  <a href="https://discord.gg/你的邀请链接">
+  <a href="https://discord.com/users/jmsgfc">
     <img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=ffffff&color=e5eaf2" />
   </a>
   <a href="mailto:a1554561752@gmail.com">
@@ -249,5 +249,5 @@ No activity tracked
 <br/>
 
 <p align="center">
-  <i>“The best way to predict the future is to invent it.”</i>
+  <i>"The best way to predict the future is to invent it."</i>
 </p>
