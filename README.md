@@ -172,7 +172,7 @@ No activity tracked
 
 <table width="100%">
 <tr>
-<td width="64%" valign="top">
+<td width="58%" valign="top">
 
 ### What I'm Working On
 
@@ -187,18 +187,38 @@ No activity tracked
 - Staying open to collaboration and interesting ideas  
 
 </td>
-<td width="36%" valign="top" align="center">
+<td width="42%" valign="top" align="left">
 
 ### Focus Snapshot
 
 <p>
-  <img src="https://img.shields.io/badge/Building-SaaS-EEF2FF?style=for-the-badge&logo=vercel&logoColor=111827&labelColor=EEF2FF&color=EEF2FF" />
-  <br/>
-  <img src="https://img.shields.io/badge/Learning-System_Design-FFF7ED?style=for-the-badge&logo=bookstack&logoColor=C2410C&labelColor=FFF7ED&color=FFF7ED" />
-  <br/>
-  <img src="https://img.shields.io/badge/Exploring-AI_%26_MCP-ECFDF5?style=for-the-badge&logo=openai&logoColor=047857&labelColor=ECFDF5&color=ECFDF5" />
-  <br/>
-  <img src="https://img.shields.io/badge/Open_to-Collaboration-F5F3FF?style=for-the-badge&logo=githubsponsors&logoColor=7C3AED&labelColor=F5F3FF&color=F5F3FF" />
+  Shipping practical web products while steadily leveling up architecture, automation, and AI workflow design.
+</p>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/CURRENTLY-SaaS-EEF2FF?style=for-the-badge&logo=vercel&logoColor=111827&labelColor=EEF2FF&color=EEF2FF" />
+</td>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/LEARNING-System_Design-FFF7ED?style=for-the-badge&logo=bookstack&logoColor=C2410C&labelColor=FFF7ED&color=FFF7ED" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/EXPLORING-AI_%26_MCP-ECFDF5?style=for-the-badge&logo=openai&logoColor=047857&labelColor=ECFDF5&color=ECFDF5" />
+</td>
+<td width="50%" valign="top">
+  <img src="https://img.shields.io/badge/OPEN_TO-Collaboration-F5F3FF?style=for-the-badge&logo=githubsponsors&logoColor=7C3AED&labelColor=F5F3FF&color=F5F3FF" />
+</td>
+</tr>
+</table>
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0F172A" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-111827?style=flat-square&logo=googlegemini&logoColor=white" />
 </p>
 
 </td>
