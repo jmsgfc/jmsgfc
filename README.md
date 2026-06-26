@@ -170,6 +170,10 @@ No activity tracked
 
 ## 🎯 Current Focus
 
+<table width="100%">
+<tr>
+<td width="64%" valign="top">
+
 ### What I'm Working On
 
 - Building production-ready SaaS products  
@@ -181,6 +185,25 @@ No activity tracked
 - Shipping practical tools with clear user value  
 - Contributing to open source and learning in public  
 - Staying open to collaboration and interesting ideas  
+
+</td>
+<td width="36%" valign="top" align="center">
+
+### Focus Snapshot
+
+<p>
+  <img src="https://img.shields.io/badge/Building-SaaS-EEF2FF?style=for-the-badge&logo=vercel&logoColor=111827&labelColor=EEF2FF&color=EEF2FF" />
+  <br/>
+  <img src="https://img.shields.io/badge/Learning-System_Design-FFF7ED?style=for-the-badge&logo=bookstack&logoColor=C2410C&labelColor=FFF7ED&color=FFF7ED" />
+  <br/>
+  <img src="https://img.shields.io/badge/Exploring-AI_%26_MCP-ECFDF5?style=for-the-badge&logo=openai&logoColor=047857&labelColor=ECFDF5&color=ECFDF5" />
+  <br/>
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-F5F3FF?style=for-the-badge&logo=githubsponsors&logoColor=7C3AED&labelColor=F5F3FF&color=F5F3FF" />
+</p>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="./assets/code-mode-focus.png" width="100%" alt="Code Mode" />
