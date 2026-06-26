@@ -94,13 +94,15 @@
 
 <table width="100%">
 <tr>
-<td width="33%">
+<td width="50%">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=jmsgfc&show_icons=true&hide_border=true&bg_color=ffffff&title_color=7B61FF&text_color=334155&icon_color=7B61FF" />
 </td>
-<td width="33%">
+<td width="50%">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=jmsgfc&hide_border=true&background=FFFFFF&ring=FF8A65&fire=FF8A65&currStreakLabel=FF6B00&sideLabels=334155&dates=64748B" />
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td colspan="2">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmsgfc&layout=compact&hide_border=true&bg_color=ffffff&title_color=2F80ED&text_color=334155" />
 </td>
 </tr>
