@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="./assets/banner.svg" width="100%" alt="Jmsgfc Banner" />
+<img src="./assets/banner.png" width="100%" alt="Jmsgfc Banner" />
 
 <br/>
 
