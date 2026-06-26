@@ -40,7 +40,7 @@
 
 <table width="100%">
 <tr>
-<td align="left">
+<td width="50%" valign="top">
 
 ### Languages
 
@@ -60,6 +60,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
 </p>
 
+</td>
+<td width="50%" valign="top">
+
 ### Database & Cloud
 
 <p>
@@ -70,6 +73,15 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,linux" />
+</p>
+
+### Focus Areas
+
+<p>
+  <img src="https://img.shields.io/badge/React-UI-EEF2FF?style=flat-square&logo=react&logoColor=0EA5E9&labelColor=EEF2FF&color=EEF2FF" />
+  <img src="https://img.shields.io/badge/TypeScript-App-EEF2FF?style=flat-square&logo=typescript&logoColor=2563EB&labelColor=EEF2FF&color=EEF2FF" />
+  <img src="https://img.shields.io/badge/Node.js-API-EEF2FF?style=flat-square&logo=nodedotjs&logoColor=16A34A&labelColor=EEF2FF&color=EEF2FF" />
+  <img src="https://img.shields.io/badge/AI-Agent-FFF7ED?style=flat-square&logo=openai&logoColor=EA580C&labelColor=FFF7ED&color=FFF7ED" />
 </p>
 
 </td>
@@ -209,7 +221,7 @@ No activity tracked
 
 <p align="center">
   <a href="https://www.jmsgfc.me">
-    <b>View more repositories →</b>
+    <b>View more repositories &rarr;</b>
   </a>
 </p>
 
@@ -217,9 +229,22 @@ No activity tracked
 
 ## 🏆 Highlights
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jmsgfc&theme=flat&no-frame=true&row=1&column=6&margin-w=12&margin-h=12" />
-</p>
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+  <b>Full-Stack Building</b><br/>
+  Turning product ideas into polished web experiences.
+</td>
+<td width="33%" align="center">
+  <b>AI & MCP Exploration</b><br/>
+  Building practical tools around agents, automation, and workflows.
+</td>
+<td width="33%" align="center">
+  <b>Open Collaboration</b><br/>
+  Sharing projects, learning in public, and improving continuously.
+</td>
+</tr>
+</table>
 
 ---
 
