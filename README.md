@@ -6,22 +6,22 @@
 
 <p align="center">
   <a href="https://www.jmsgfc.me">
-    <img src="https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=google-chrome&logoColor=334155&labelColor=ffffff&color=e8eef8" />
+    <img src="https://img.shields.io/badge/Website-EFF6FF?style=for-the-badge&logo=google-chrome&logoColor=0369A1&labelColor=E0F2FE&color=E0F2FE" />
   </a>
   <a href="https://github.com/jmsgfc">
-    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=181717&labelColor=ffffff&color=e8eef8" />
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=111827" />
   </a>
   <a href="https://www.linkedin.com/in/jmsgfc-huang">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff&color=e8eef8" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
   </a>
   <a href="https://x.com/jmsgfcc">
-    <img src="https://img.shields.io/badge/X-ffffff?style=for-the-badge&logo=x&logoColor=000000&labelColor=ffffff&color=e8eef8" />
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=111111&color=111111" />
   </a>
   <a href="https://discord.com/users/jmsgfc">
-    <img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=ffffff&color=e8eef8" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=5865F2" />
   </a>
   <a href="mailto:a1554561752@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff&color=e8eef8" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" />
   </a>
 </p>
 
@@ -170,17 +170,22 @@ No activity tracked
 
 <table width="100%">
 <tr>
-<td width="50%" valign="middle" align="left">
+<td width="52%" valign="top" align="left">
+
+### What I'm Working On
 
 - Building production-ready SaaS products  
 - Learning system design and DevOps  
 - Exploring AI agents, MCP, and Web3 technologies  
-- Contributing to open source  
-- Continuously improving engineering skills  
-- Open to collaboration and interesting ideas  
+
+### How I Like To Work
+
+- Shipping practical tools with clear user value  
+- Contributing to open source and learning in public  
+- Staying open to collaboration and interesting ideas  
 
 </td>
-<td width="50%" align="center">
+<td width="48%" align="center" valign="top">
 
 <img src="./assets/code-mode.png" width="100%" alt="Code Mode" />
 
@@ -191,6 +196,10 @@ No activity tracked
 ---
 
 ## ⭐ Featured Projects
+
+<p align="center">
+  A few projects that best represent my work across tooling, automation, and product engineering.
+</p>
 
 <table width="100%">
 <tr>
@@ -252,22 +261,22 @@ No activity tracked
 
 <p align="center">
   <a href="https://www.jmsgfc.me">
-    <img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&logo=google-chrome&logoColor=333&labelColor=ffffff&color=e5eaf2" />
+    <img src="https://img.shields.io/badge/Website-EFF6FF?style=for-the-badge&logo=google-chrome&logoColor=0369A1&labelColor=E0F2FE&color=E0F2FE" />
   </a>
   <a href="https://github.com/jmsgfc">
-    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=181717&labelColor=ffffff&color=e5eaf2" />
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=111827" />
   </a>
   <a href="https://www.linkedin.com/in/jmsgfc-huang">
-    <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=ffffff&color=e5eaf2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
   </a>
   <a href="https://x.com/jmsgfcc">
-    <img src="https://img.shields.io/badge/Twitter_/_X-ffffff?style=for-the-badge&logo=x&logoColor=000000&labelColor=ffffff&color=e5eaf2" />
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=111111&color=111111" />
   </a>
   <a href="https://discord.com/users/jmsgfc">
-    <img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=ffffff&color=e5eaf2" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=5865F2" />
   </a>
   <a href="mailto:a1554561752@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=ffffff&color=e5eaf2" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" />
   </a>
 </p>
 
