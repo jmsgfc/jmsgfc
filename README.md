@@ -102,8 +102,8 @@
 </td>
 </tr>
 <tr>
-<td colspan="2">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmsgfc&layout=compact&hide_border=true&bg_color=ffffff&title_color=2F80ED&text_color=334155" />
+<td colspan="2" align="center">
+  <img width="72%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmsgfc&layout=compact&hide_border=true&bg_color=ffffff&title_color=2F80ED&text_color=334155" />
 </td>
 </tr>
 </table>
