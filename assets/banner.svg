@@ -1,0 +1,112 @@
+<svg width="1600" height="560" viewBox="0 0 1600 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FCFDFF"/>
+      <stop offset="48%" stop-color="#F8FBFF"/>
+      <stop offset="100%" stop-color="#FFF7ED"/>
+    </linearGradient>
+
+    <linearGradient id="titleGrad" x1="90" y1="180" x2="640" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF4D8D"/>
+      <stop offset="45%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#2F80ED"/>
+    </linearGradient>
+
+    <linearGradient id="roleBar" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+
+    <linearGradient id="fadeToImage" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0.96"/>
+      <stop offset="72%" stop-color="#FFFFFF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#0F172A" flood-opacity="0.10"/>
+    </filter>
+
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#1E293B" flood-opacity="0.10"/>
+    </filter>
+
+    <clipPath id="clip">
+      <rect x="24" y="24" width="1552" height="512" rx="32"/>
+    </clipPath>
+  </defs>
+
+  <!-- Main card -->
+  <rect x="24" y="24" width="1552" height="512" rx="32" fill="url(#bg)" stroke="#E5EAF2" stroke-width="2"/>
+
+  <g clip-path="url(#clip)">
+    <!-- Soft background blobs -->
+    <circle cx="220" cy="135" r="160" fill="#FCE7F3" opacity="0.55"/>
+    <circle cx="440" cy="425" r="190" fill="#EDE9FE" opacity="0.62"/>
+    <circle cx="1240" cy="115" r="240" fill="#DBEAFE" opacity="0.36"/>
+    <circle cx="1370" cy="445" r="230" fill="#FFEDD5" opacity="0.46"/>
+
+    <!-- Your image -->
+    <!-- 注意：banner-girl.png 要和 banner.svg 放在同一个 assets 文件夹里 -->
+    <image
+      href="banner-girl.png"
+      x="780"
+      y="24"
+      width="796"
+      height="512"
+      preserveAspectRatio="xMidYMid slice"
+      opacity="0.96"
+    />
+
+    <!-- White fade overlay: makes text area clean and blends into image -->
+    <rect x="24" y="24" width="900" height="512" fill="url(#fadeToImage)"/>
+
+    <!-- Extra light panel behind text -->
+    <rect x="60" y="62" width="650" height="430" rx="30" fill="#FFFFFF" opacity="0.45"/>
+
+    <!-- Left text -->
+    <text x="92" y="130" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="800" fill="#0F172A">
+      Hi there 👋
+    </text>
+
+    <text x="92" y="226" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="84" font-weight="900" fill="url(#titleGrad)">
+      I'm Jmsgfc
+    </text>
+
+    <rect x="94" y="258" width="6" height="54" rx="3" fill="url(#roleBar)"/>
+
+    <text x="120" y="300" font-family="JetBrains Mono, Consolas, monospace" font-size="36" font-weight="600" letter-spacing="5" fill="#334155">
+      Full-Stack Developer
+    </text>
+
+    <text x="94" y="356" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" fill="#475569">
+      <tspan x="94" dy="0">I build modern, scalable, and performant web applications.</tspan>
+      <tspan x="94" dy="42">I love turning ideas into real-world products.</tspan>
+      <tspan x="94" dy="42">Currently focused on React, Next.js, TypeScript, Node.js, and AI.</tspan>
+    </text>
+
+    <!-- Buttons -->
+    <g filter="url(#softShadow)">
+      <rect x="94" y="458" width="148" height="54" rx="14" fill="#FFFFFF" stroke="#E5EAF2"/>
+      <text x="168" y="492" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#334155">
+        🌐 Website
+      </text>
+
+      <rect x="258" y="458" width="138" height="54" rx="14" fill="#FFFFFF" stroke="#E5EAF2"/>
+      <text x="327" y="492" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#334155">
+        GitHub
+      </text>
+
+      <rect x="412" y="458" width="158" height="54" rx="14" fill="#FFFFFF" stroke="#E5EAF2"/>
+      <text x="491" y="492" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#334155">
+        LinkedIn
+      </text>
+
+      <rect x="586" y="458" width="120" height="54" rx="14" fill="#FFFFFF" stroke="#E5EAF2"/>
+      <text x="646" y="492" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700" fill="#334155">
+        Email
+      </text>
+    </g>
+  </g>
+</svg>
