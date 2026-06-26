@@ -189,7 +189,7 @@ No activity tracked
 </td>
 <td width="58%" align="center" valign="middle">
 
-<img src="./assets/code-mode.png" width="100%" alt="Code Mode" />
+<img src="./assets/code-mode-wide.png" width="100%" alt="Code Mode" />
 
 </td>
 </tr>
