@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<img src="./assets/intro-text.gif" width="100%" alt="Full-Stack Developer / AI & Web Enthusiast / Lifelong Learner" />
+<img src="./assets/intro-title.gif" width="100%" alt="Full-Stack Developer | AI & Web Enthusiast | Lifelong Learner" />
 
 <img src="./assets/intro-subtext.png" width="94%" alt="I build modern, scalable, and user-friendly applications. Passionate about turning ideas into real-world products with React, Next.js, TypeScript, Python, and Node.js." />
 
