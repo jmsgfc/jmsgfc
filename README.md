@@ -40,48 +40,72 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,go,c,html,css" />
-</p>
+<td align="center">
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-111111?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Radix_UI-1F2937?style=for-the-badge&logo=radixui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-2563EB?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lucide-EA5A5A?style=for-the-badge&logo=lucide&logoColor=white" />
 </p>
+
+</td>
+</tr>
+<tr>
+<td align="center">
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-F97316?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elysia-1F2937?style=for-the-badge&logo=elysia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-6D5EF5?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td align="center">
 
-### Database & Cloud
+### Database & ORM / ODM
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,aws,vercel" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
-### Tools & Others
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### Deployment / Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,linux" />
-</p>
-
-### Focus Areas
-
-<p>
-  <img src="https://img.shields.io/badge/React-UI-EEF2FF?style=flat-square&logo=react&logoColor=0EA5E9&labelColor=EEF2FF&color=EEF2FF" />
-  <img src="https://img.shields.io/badge/TypeScript-App-EEF2FF?style=flat-square&logo=typescript&logoColor=2563EB&labelColor=EEF2FF&color=EEF2FF" />
-  <img src="https://img.shields.io/badge/Node.js-API-EEF2FF?style=flat-square&logo=nodedotjs&logoColor=16A34A&labelColor=EEF2FF&color=EEF2FF" />
-  <img src="https://img.shields.io/badge/AI-Agent-FFF7ED?style=flat-square&logo=openai&logoColor=EA580C&labelColor=FFF7ED&color=FFF7ED" />
+  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827" />
 </p>
 
 </td>
