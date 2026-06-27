@@ -25,12 +25,7 @@
   </a>
 </p>
 
-<h3 align="center">✨ Full-Stack Developer · AI & Web Enthusiast · Lifelong Learner</h3>
-
-<p align="center">
-  I build modern, scalable, and user-friendly applications.<br/>
-  Passionate about turning ideas into real-world products with <b>React</b>, <b>Next.js</b>, <b>TypeScript</b>, <b>Python</b>, and <b>Node.js</b>.
-</p>
+<img src="./assets/intro-text.svg" width="92%" alt="Full-Stack Developer · AI & Web Enthusiast · Lifelong Learner" />
 
 </div>
 
