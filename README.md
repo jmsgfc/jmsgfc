@@ -244,33 +244,17 @@ No activity tracked
 
 <h3>🚀 What I'm Working On</h3>
 
-<table width="100%">
-<tr>
-<td valign="top">
-
 - Building production-ready SaaS products  
 - Learning system design and DevOps  
 - Exploring AI agents, MCP, and Web3 technologies  
-
-</td>
-</tr>
-</table>
 
 <br/>
 
 <h3>💜 How I Like To Work</h3>
 
-<table width="100%">
-<tr>
-<td valign="top">
-
 - Shipping practical tools with clear user value  
 - Contributing to open source and learning in public  
 - Staying open to collaboration and interesting ideas  
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -290,38 +274,27 @@ No activity tracked
   Building practical web products while steadily leveling up architecture, automation, and AI workflow design.
 </p>
 
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-  <img src="https://img.shields.io/badge/CURRENTLY-SaaS-EEF2FF?style=for-the-badge&logo=vercel&logoColor=2563EB&labelColor=EEF2FF&color=EEF2FF" />
-</td>
-<td width="50%" align="center" valign="top">
-  <img src="https://img.shields.io/badge/LEARNING-System_Design-FFF7ED?style=for-the-badge&logo=bookstack&logoColor=EA580C&labelColor=FFF7ED&color=FFF7ED" />
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-  <img src="https://img.shields.io/badge/EXPLORING-AI_%26_MCP-ECFDF5?style=for-the-badge&logo=openai&logoColor=059669&labelColor=ECFDF5&color=ECFDF5" />
-</td>
-<td width="50%" align="center" valign="top">
-  <img src="https://img.shields.io/badge/OPEN_TO-Collaboration-F5F3FF?style=for-the-badge&logo=githubsponsors&logoColor=7C3AED&labelColor=F5F3FF&color=F5F3FF" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/CURRENTLY-SaaS-EEF2FF?style=flat-square&logo=vercel&logoColor=2563EB&labelColor=EEF2FF&color=EEF2FF" />
+  <img src="https://img.shields.io/badge/LEARNING-System_Design-FFF7ED?style=flat-square&logo=bookstack&logoColor=EA580C&labelColor=FFF7ED&color=FFF7ED" />
+  <br/>
+  <img src="https://img.shields.io/badge/EXPLORING-AI_%26_MCP-ECFDF5?style=flat-square&logo=openai&logoColor=059669&labelColor=ECFDF5&color=ECFDF5" />
+  <img src="https://img.shields.io/badge/OPEN_TO-Collaboration-F5F3FF?style=flat-square&logo=githubsponsors&logoColor=7C3AED&labelColor=F5F3FF&color=F5F3FF" />
+</p>
 
 <br/>
 
 <h3>🧩 Focus Stack</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0F172A" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0F172A" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-111827?style=flat-square&logo=googlegemini&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="./assets/code-mode-focus.png" width="100%" alt="Code Mode" />
+  <img src="./assets/code-mode-focus.png" width="96%" alt="Code Mode" />
 </p>
 
 </td>
