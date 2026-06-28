@@ -242,7 +242,7 @@ No activity tracked
 <tr>
 <td width="52%" valign="top">
 
-<h3><span style="color:#2563EB;">🚀 What I'm Working On</span></h3>
+<h3>🚀 <img src="https://img.shields.io/badge/What_I'm_Working_On-DBEAFE?style=for-the-badge&logoColor=2563EB&labelColor=DBEAFE&color=DBEAFE" alt="What I'm Working On" /></h3>
 
 - Building production-ready SaaS products  
 - Learning system design and DevOps  
@@ -250,7 +250,7 @@ No activity tracked
 
 <br/>
 
-<h3><span style="color:#7C3AED;">💜 How I Like To Work</span></h3>
+<h3>💜 <img src="https://img.shields.io/badge/How_I_Like_To_Work-F3E8FF?style=for-the-badge&logoColor=7C3AED&labelColor=F3E8FF&color=F3E8FF" alt="How I Like To Work" /></h3>
 
 - Shipping practical tools with clear user value  
 - Contributing to open source and learning in public  
@@ -262,16 +262,16 @@ No activity tracked
   <i>Ship practical things.</i><br/>
   <i>Learn continuously.</i><br/>
   <i>Stay open.</i><br/><br/>
-  <b><span style="color:#EA580C;">Keep Building</span></b>
+  <img src="https://img.shields.io/badge/Keep_Building-FFEDD5?style=for-the-badge&labelColor=FFEDD5&color=FFEDD5" alt="Keep Building" />
 </blockquote>
 
 </td>
 <td width="48%" valign="top">
 
-<h3><span style="color:#2563EB;">✨ Focus Snapshot</span></h3>
+<h3>✨ <img src="https://img.shields.io/badge/Focus_Snapshot-DBEAFE?style=for-the-badge&labelColor=DBEAFE&color=DBEAFE" alt="Focus Snapshot" /></h3>
 
 <p>
-  <span style="color:#334155;">Building practical web products while steadily leveling up architecture, automation, and <b style="color:#7C3AED;">AI workflow design</b>.</span>
+  Building practical web products while steadily leveling up architecture, automation, and AI workflow design.
 </p>
 
 <p align="center">
@@ -284,7 +284,7 @@ No activity tracked
 
 <br/>
 
-<h3><span style="color:#7C3AED;">🧩 Focus Stack</span></h3>
+<h3>🧩 <img src="https://img.shields.io/badge/Focus_Stack-F3E8FF?style=for-the-badge&labelColor=F3E8FF&color=F3E8FF" alt="Focus Stack" /></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0F172A" />
