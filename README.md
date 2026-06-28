@@ -61,6 +61,7 @@
 ### Backend
 
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-F97316?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -68,7 +69,21 @@
   <img src="https://img.shields.io/badge/Elysia-1F2937?style=for-the-badge&logo=elysia&logoColor=white" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
   <img src="https://img.shields.io/badge/Clerk-6D5EF5?style=for-the-badge&logo=clerk&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### AI / Agent Tools
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-111111?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLI-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 </td>
@@ -93,11 +108,28 @@
 <tr>
 <td align="center">
 
-### Deployment / Tools
+### Cloud / BaaS
 
 <p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### Platforms / Tools
+
+<p>
+  <img src="https://img.shields.io/badge/iOS-111111?style=for-the-badge&logo=ios&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-111111?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
