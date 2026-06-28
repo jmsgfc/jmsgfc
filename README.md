@@ -82,6 +82,9 @@
   <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-2563EB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zhipu_GLM-0F766E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen-7C3AED?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Grok-111111?style=for-the-badge&logo=x&logoColor=white" />
   <img src="https://img.shields.io/badge/CLI-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
