@@ -240,62 +240,93 @@ No activity tracked
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="52%" valign="top">
 
-### What I'm Working On
+<h3>🚀 What I'm Working On</h3>
+
+<table width="100%">
+<tr>
+<td valign="top">
 
 - Building production-ready SaaS products  
 - Learning system design and DevOps  
 - Exploring AI agents, MCP, and Web3 technologies  
 
-### How I Like To Work
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h3>💜 How I Like To Work</h3>
+
+<table width="100%">
+<tr>
+<td valign="top">
 
 - Shipping practical tools with clear user value  
 - Contributing to open source and learning in public  
 - Staying open to collaboration and interesting ideas  
 
 </td>
-<td width="42%" valign="top" align="left">
+</tr>
+</table>
 
-### Focus Snapshot
+<br/>
+
+<blockquote>
+  <i>Ship practical things.</i><br/>
+  <i>Learn continuously.</i><br/>
+  <i>Stay open.</i><br/><br/>
+  <b>Keep Building</b>
+</blockquote>
+
+</td>
+<td width="48%" valign="top">
+
+<h3>✨ Focus Snapshot</h3>
 
 <p>
-  Shipping practical web products while steadily leveling up architecture, automation, and AI workflow design.
+  Building practical web products while steadily leveling up architecture, automation, and AI workflow design.
 </p>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-  <img src="https://img.shields.io/badge/CURRENTLY-SaaS-EEF2FF?style=for-the-badge&logo=vercel&logoColor=111827&labelColor=EEF2FF&color=EEF2FF" />
+<td width="50%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/CURRENTLY-SaaS-EEF2FF?style=for-the-badge&logo=vercel&logoColor=2563EB&labelColor=EEF2FF&color=EEF2FF" />
 </td>
-<td width="50%" valign="top">
-  <img src="https://img.shields.io/badge/LEARNING-System_Design-FFF7ED?style=for-the-badge&logo=bookstack&logoColor=C2410C&labelColor=FFF7ED&color=FFF7ED" />
+<td width="50%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/LEARNING-System_Design-FFF7ED?style=for-the-badge&logo=bookstack&logoColor=EA580C&labelColor=FFF7ED&color=FFF7ED" />
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-  <img src="https://img.shields.io/badge/EXPLORING-AI_%26_MCP-ECFDF5?style=for-the-badge&logo=openai&logoColor=047857&labelColor=ECFDF5&color=ECFDF5" />
+<td width="50%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/EXPLORING-AI_%26_MCP-ECFDF5?style=for-the-badge&logo=openai&logoColor=059669&labelColor=ECFDF5&color=ECFDF5" />
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
   <img src="https://img.shields.io/badge/OPEN_TO-Collaboration-F5F3FF?style=for-the-badge&logo=githubsponsors&logoColor=7C3AED&labelColor=F5F3FF&color=F5F3FF" />
 </td>
 </tr>
 </table>
 
+<br/>
+
+<h3>🧩 Focus Stack</h3>
+
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0F172A" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-111827?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0F172A" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="./assets/code-mode-focus.png" width="100%" alt="Code Mode" />
 </p>
 
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="./assets/code-mode-focus.png" width="100%" alt="Code Mode" />
-</p>
 
 ---
 
