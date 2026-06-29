@@ -1,10 +1,10 @@
 <p align="center">
-  <b>English Version</b> | <a href="./README.zh-CN.md">中文版本</a>
+  <a href="./README.md">English Version</a> | <b>中文版本</b>
 </p>
 
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Jmsgfc Banner" />
+<img src="./assets/banner.png" width="100%" alt="Jmsgfc 横幅" />
 
 <br/>
 
@@ -29,21 +29,21 @@
   </a>
 </p>
 
-<img src="./assets/intro-title.gif" width="100%" alt="Full-Stack Developer | AI & Web Enthusiast | Lifelong Learner" />
+<img src="./assets/intro-title-zh.gif" width="100%" alt="全栈开发者 | AI 与 Web 爱好者 | 终身学习者" />
 
-<img src="./assets/intro-subtext.png" width="94%" alt="I build modern, scalable, and user-friendly applications. Passionate about turning ideas into real-world products with React, Next.js, TypeScript, Python, and Node.js." />
+<img src="./assets/intro-subtext-zh.png" width="94%" alt="构建现代化、可扩展且易维护的应用。热衷于用 React、Next.js、TypeScript、Python 与 Node.js 把想法落地成真实产品。" />
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 💻 技术栈
 
 <table width="100%">
 <tr>
 <td align="center">
 
-### Frontend
+### 前端
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -62,7 +62,7 @@
 <tr>
 <td align="center">
 
-### Backend
+### 后端
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -80,7 +80,7 @@
 <tr>
 <td align="center">
 
-### AI / Agent Tools
+### AI / Agent 工具
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" />
@@ -98,7 +98,7 @@
 <tr>
 <td align="center">
 
-### Database & ORM / ODM
+### 数据库与 ORM / ODM
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -115,7 +115,7 @@
 <tr>
 <td align="center">
 
-### Cloud / BaaS
+### 云平台 / BaaS
 
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" />
@@ -130,7 +130,7 @@
 <tr>
 <td align="center">
 
-### Platforms / Tools
+### 平台 / 工具
 
 <p>
   <img src="https://img.shields.io/badge/iOS-111111?style=for-the-badge&logo=ios&logoColor=white" />
@@ -150,7 +150,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 统计
 
 <table width="100%">
 <tr>
@@ -170,13 +170,13 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 贡献趋势图
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jmsgfc&bg_color=ffffff&color=7B61FF&line=5BC85B&point=2F80ED&area=true&hide_border=true" />
 
 ---
 
-## 👾 Pac-Man Contribution
+## 👾 吃豆人贡献图
 
 <p align="center">
   <picture>
@@ -188,7 +188,7 @@
 
 ---
 
-## 🐍 Snake Contribution
+## 🐍 贪吃蛇贡献图
 
 <p align="center">
   <picture>
@@ -200,7 +200,7 @@
 
 ---
 
-## 📊 Profile Summary
+## 📊 资料摘要
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jmsgfc/jmsgfc/main/profile-summary-card-output/default/0-profile-details.svg" width="100%" />
@@ -218,7 +218,7 @@
 
 ---
 
-## ⌨️ WakaTime Weekly Stats
+## ⌚ WakaTime 周统计
 
 <!--START_SECTION:waka-->
 
@@ -232,63 +232,63 @@ No activity tracked
 
 ---
 
-## ⚡ Recent Activity
+## 📝 最近动态
 
 <!--START_SECTION:activity-->
-1. Preparing my GitHub profile README.
+1. 正在准备我的 GitHub 个人主页 README。
 <!--END_SECTION:activity-->
 
 ---
 
-## 🎯 Current Focus
+## 🎯 当前关注
 
 <table width="100%">
 <tr>
 <td width="52%" valign="top">
 
-<h3>🚀 <img src="https://img.shields.io/badge/What_I'm_Working_On-DBEAFE?style=for-the-badge&logoColor=2563EB&labelColor=DBEAFE&color=DBEAFE" alt="What I'm Working On" /></h3>
+<h3>🚀 <img src="https://img.shields.io/badge/正在进行-DBEAFE?style=for-the-badge&labelColor=DBEAFE&color=DBEAFE" alt="正在进行" /></h3>
 
-- Building production-ready SaaS products  
-- Learning system design and DevOps  
-- Exploring AI agents, MCP, and Web3 technologies  
+- 构建可投入使用的 SaaS 产品  
+- 学习系统设计与 DevOps  
+- 探索 AI agents、MCP 与 Web3 技术  
 
 <br/>
 
-<h3>💜 <img src="https://img.shields.io/badge/How_I_Like_To_Work-F3E8FF?style=for-the-badge&logoColor=7C3AED&labelColor=F3E8FF&color=F3E8FF" alt="How I Like To Work" /></h3>
+<h3>💜 <img src="https://img.shields.io/badge/我的工作方式-F3E8FF?style=for-the-badge&labelColor=F3E8FF&color=F3E8FF" alt="我的工作方式" /></h3>
 
-- Shipping practical tools with clear user value  
-- Contributing to open source and learning in public  
-- Staying open to collaboration and interesting ideas  
+- 交付真正有用户价值的实用工具  
+- 参与开源，在公开环境中持续学习  
+- 保持开放，乐于协作，也乐于接受新想法  
 
 <br/>
 
 <blockquote>
-  <i>Ship practical things.</i><br/>
-  <i>Learn continuously.</i><br/>
-  <i>Stay open.</i><br/><br/>
-  <img src="https://img.shields.io/badge/Keep_Building-FFEDD5?style=for-the-badge&labelColor=FFEDD5&color=FFEDD5" alt="Keep Building" />
+  <i>做实用的事。</i><br/>
+  <i>持续学习。</i><br/>
+  <i>保持开放。</i><br/><br/>
+  <img src="https://img.shields.io/badge/持续构建-FFEDD5?style=for-the-badge&labelColor=FFEDD5&color=FFEDD5" alt="持续构建" />
 </blockquote>
 
 </td>
 <td width="48%" valign="top">
 
-<h3>✨ <img src="https://img.shields.io/badge/Focus_Snapshot-DBEAFE?style=for-the-badge&labelColor=DBEAFE&color=DBEAFE" alt="Focus Snapshot" /></h3>
+<h3>✨ <img src="https://img.shields.io/badge/焦点概览-DBEAFE?style=for-the-badge&labelColor=DBEAFE&color=DBEAFE" alt="焦点概览" /></h3>
 
 <p>
-  Building practical web products while steadily leveling up architecture, automation, and AI workflow design.
+  持续构建实用的 Web 产品，同时稳步提升架构能力、自动化能力与 AI 工作流设计能力。
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CURRENTLY-SaaS-EEF2FF?style=flat-square&logo=vercel&logoColor=2563EB&labelColor=EEF2FF&color=EEF2FF" />
-  <img src="https://img.shields.io/badge/LEARNING-System_Design-FFF7ED?style=flat-square&logo=bookstack&logoColor=EA580C&labelColor=FFF7ED&color=FFF7ED" />
+  <img src="https://img.shields.io/badge/当前-SaaS-EEF2FF?style=flat-square&logo=vercel&logoColor=2563EB&labelColor=EEF2FF&color=EEF2FF" />
+  <img src="https://img.shields.io/badge/学习中-系统设计-FFF7ED?style=flat-square&logo=bookstack&logoColor=EA580C&labelColor=FFF7ED&color=FFF7ED" />
   <br/>
-  <img src="https://img.shields.io/badge/EXPLORING-AI_%26_MCP-ECFDF5?style=flat-square&logo=openai&logoColor=059669&labelColor=ECFDF5&color=ECFDF5" />
-  <img src="https://img.shields.io/badge/OPEN_TO-Collaboration-F5F3FF?style=flat-square&logo=githubsponsors&logoColor=7C3AED&labelColor=F5F3FF&color=F5F3FF" />
+  <img src="https://img.shields.io/badge/探索中-AI_%26_MCP-ECFDF5?style=flat-square&logo=openai&logoColor=059669&labelColor=ECFDF5&color=ECFDF5" />
+  <img src="https://img.shields.io/badge/开放于-协作-F5F3FF?style=flat-square&logo=githubsponsors&logoColor=7C3AED&labelColor=F5F3FF&color=F5F3FF" />
 </p>
 
 <br/>
 
-<h3>🧩 <img src="https://img.shields.io/badge/Focus_Stack-F3E8FF?style=for-the-badge&labelColor=F3E8FF&color=F3E8FF" alt="Focus Stack" /></h3>
+<h3>🧩 <img src="https://img.shields.io/badge/聚焦技术栈-F3E8FF?style=for-the-badge&labelColor=F3E8FF&color=F3E8FF" alt="聚焦技术栈" /></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0F172A" />
@@ -307,10 +307,10 @@ No activity tracked
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ 代表项目
 
 <p align="center">
-  A few projects that best represent my work across tooling, automation, and product engineering.
+  这里挑选了一些最能代表我在工具开发、自动化和产品工程方向工作的项目。
 </p>
 
 <table width="100%">
@@ -342,34 +342,34 @@ No activity tracked
 
 <p align="center">
   <a href="https://www.jmsgfc.me">
-    <b>View more repositories &rarr;</b>
+    <b>查看更多仓库 &rarr;</b>
   </a>
 </p>
 
 ---
 
-## 🏆 Highlights
+## 🌟 亮点
 
 <table width="100%">
 <tr>
 <td width="33%" align="center">
-  <b>Full-Stack Building</b><br/>
-  Turning product ideas into polished web experiences.
+  <b>全栈构建</b><br/>
+  把产品想法打磨成完整、可用的 Web 体验。
 </td>
 <td width="33%" align="center">
-  <b>AI & MCP Exploration</b><br/>
-  Building practical tools around agents, automation, and workflows.
+  <b>AI 与 MCP 探索</b><br/>
+  围绕 agents、自动化与工作流构建真正可用的工具。
 </td>
 <td width="33%" align="center">
-  <b>Open Collaboration</b><br/>
-  Sharing projects, learning in public, and improving continuously.
+  <b>开放协作</b><br/>
+  分享项目、公开学习，并持续迭代提升。
 </td>
 </tr>
 </table>
 
 ---
 
-## 💌 Connect With Me
+## 🤝 联系我
 
 <p align="center">
   <a href="https://www.jmsgfc.me">
@@ -395,5 +395,5 @@ No activity tracked
 <br/>
 
 <p align="center">
-  <i>"The best way to predict the future is to invent it."</i>
+  <i>“预测未来的最好方式，就是亲手创造它。”</i>
 </p>
