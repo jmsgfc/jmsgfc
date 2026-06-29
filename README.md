@@ -395,5 +395,5 @@ No activity tracked
 <br/>
 
 <p align="center">
-  <i>"The best way to predict the future is to invent it."</i>
+  <img src="./assets/quote-float.gif" width="76%" alt="The best way to predict the future is to invent it." />
 </p>

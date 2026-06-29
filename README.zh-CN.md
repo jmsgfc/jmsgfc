@@ -395,5 +395,5 @@ No activity tracked
 <br/>
 
 <p align="center">
-  <i>“预测未来的最好方式，就是亲手创造它。”</i>
+  <img src="./assets/quote-float-zh.gif" width="76%" alt="预测未来的最好方式，就是亲手创造它。" />
 </p>
