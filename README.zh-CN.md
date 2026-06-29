@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Jmsgfc 横幅" />
+<img src="./assets/banner-zh.svg" width="100%" alt="Jmsgfc 中文横幅" />
 
 <br/>
 
