@@ -309,7 +309,7 @@ No activity tracked
   这里挑选了一些最能代表我在工具开发、自动化和产品工程方向工作的项目。
 </p>
 
-<table width="100%">
+<table width="100%" cellpadding="12">
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/jmsgfc/pgshHacker"><b>🖥️ pgshHacker</b></a><br/>

@@ -309,7 +309,7 @@ No activity tracked
   A few projects that best represent my work across tooling, automation, and product engineering.
 </p>
 
-<table width="100%">
+<table width="100%" cellpadding="12">
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/jmsgfc/pgshHacker"><b>🖥️ pgshHacker</b></a><br/>
