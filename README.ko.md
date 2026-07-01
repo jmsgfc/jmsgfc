@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Jmsgfc Banner" />
+<img src="./assets/banner-ko.png" width="100%" alt="Jmsgfc Banner" />
 
 <br/>
 
@@ -17,9 +17,9 @@
   <a href="mailto:a1554561752@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" /></a>
 </p>
 
-<h1 align="center">안녕하세요, Jmsgfc입니다</h1>
-<p align="center">풀스택 개발, AI, Web을 중심으로 실용적인 제품을 만들고 있습니다.</p>
-<p align="center">React, Next.js, TypeScript, Python, Node.js로 아이디어를 실제 제품으로 구현하는 것을 좋아합니다.</p>
+<img src="./assets/intro-title-ko.gif" width="100%" alt="풀스택 개발자 | AI 및 Web 애호가 | 평생 학습자" />
+
+<img src="./assets/intro-subtext-ko.png" width="94%" alt="현대적이고 확장 가능하며 유지보수가 쉬운 앱을 만듭니다. 저는 React, Next.js, TypeScript, Python 및 Node.js로 아이디어를 실제 제품으로 구현하는 것을 좋아합니다." />
 
 </div>
 
@@ -279,4 +279,4 @@ No activity tracked
 
 <br/>
 
-<p align="center"><i>“미래를 예측하는 가장 좋은 방법은 직접 만들어 내는 것이다.”</i></p>
+<p align="center"><img src="./assets/quote-float-ko.gif" width="76%" alt="미래를 예측하는 가장 좋은 방법은 직접 만들어 내는 것이다." /></p>

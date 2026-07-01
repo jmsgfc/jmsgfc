@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Jmsgfc Banner" />
+<img src="./assets/banner-ja.png" width="100%" alt="Jmsgfc Banner" />
 
 <br/>
 
@@ -29,9 +29,9 @@
   </a>
 </p>
 
-<h1 align="center">こんにちは、Jmsgfcです</h1>
-<p align="center">フルスタック開発、AI、Web を中心に、実用的なプロダクトづくりに取り組んでいます。</p>
-<p align="center">React、Next.js、TypeScript、Python、Node.js を使って、アイデアを実際のプロダクトへ形にするのが好きです。</p>
+<img src="./assets/intro-title-ja.gif" width="100%" alt="フルスタック開発者 | AI と Web の探究者 | 終身学習者" />
+
+<img src="./assets/intro-subtext-ja.png" width="94%" alt="現代的で拡張性があり、保守しやすいアプリを作っています。私は React、Next.js、TypeScript、Python、Node.js でアイデアを現実のプロダクトへと落とし込んでいます。" />
 
 </div>
 
@@ -384,5 +384,5 @@ No activity tracked
 <br/>
 
 <p align="center">
-  <i>「未来を予測する最良の方法は、自ら創り出すことだ。」</i>
+  <img src="./assets/quote-float-ja.gif" width="76%" alt="未来を予測する最良の方法は、自ら創り出すことだ。" />
 </p>

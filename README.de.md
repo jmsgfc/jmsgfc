@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Jmsgfc Banner" />
+<img src="./assets/banner-de.png" width="100%" alt="Jmsgfc Banner" />
 
 <br/>
 
@@ -17,9 +17,9 @@
   <a href="mailto:a1554561752@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" /></a>
 </p>
 
-<h1 align="center">Hallo, ich bin Jmsgfc</h1>
-<p align="center">Ich entwickle praxisnahe Produkte rund um Full-Stack-Entwicklung, KI und das Web.</p>
-<p align="center">Ich arbeite gern mit React, Next.js, TypeScript, Python und Node.js, um Ideen in reale Produkte zu verwandeln.</p>
+<img src="./assets/intro-title-de.gif" width="100%" alt="Full-Stack-Entwickler | KI- und Web-Enthusiast | Lebenslang Lernender" />
+
+<img src="./assets/intro-subtext-de.png" width="94%" alt="Ich entwickle moderne, skalierbare und wartbare Anwendungen. Mit React, Next.js, TypeScript, Python und Node.js setze ich Ideen in reale Produkte um." />
 
 </div>
 
@@ -279,4 +279,4 @@ No activity tracked
 
 <br/>
 
-<p align="center"><i>„Die beste Art, die Zukunft vorherzusagen, ist, sie zu erfinden.“</i></p>
+<p align="center"><img src="./assets/quote-float-de.gif" width="76%" alt="Die beste Art, die Zukunft vorherzusagen, ist, sie zu erfinden." /></p>

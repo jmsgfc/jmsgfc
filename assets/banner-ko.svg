@@ -1,0 +1,73 @@
+<svg width="1600" height="560" viewBox="0 0 1600 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FBFCFF"/>
+      <stop offset="58%" stop-color="#F7FAFF"/>
+      <stop offset="100%" stop-color="#FFF6EE"/>
+    </linearGradient>
+
+    <linearGradient id="titleGrad" x1="108" y1="194" x2="610" y2="194" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FF4F91"/>
+      <stop offset="48%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+
+    <linearGradient id="roleBar" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+
+    <linearGradient id="fadeToImage" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.99"/>
+      <stop offset="46%" stop-color="#FFFFFF" stop-opacity="0.94"/>
+      <stop offset="72%" stop-color="#FFFFFF" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+
+    <clipPath id="clip">
+      <rect x="24" y="24" width="1552" height="512" rx="32"/>
+    </clipPath>
+  </defs>
+
+  <rect x="24" y="24" width="1552" height="512" rx="32" fill="url(#bg)" stroke="#E7EDF6" stroke-width="2"/>
+
+  <g clip-path="url(#clip)">
+    <circle cx="172" cy="120" r="150" fill="#FCE7F3" opacity="0.28"/>
+    <circle cx="365" cy="454" r="170" fill="#EDE9FE" opacity="0.42"/>
+    <circle cx="1200" cy="110" r="220" fill="#DBEAFE" opacity="0.28"/>
+    <circle cx="1390" cy="445" r="220" fill="#FFEDD5" opacity="0.36"/>
+
+    <image
+      href="banner-girl.png"
+      x="804"
+      y="24"
+      width="772"
+      height="512"
+      preserveAspectRatio="xMidYMid slice"
+      opacity="0.98"
+    />
+
+    <rect x="24" y="24" width="980" height="512" fill="url(#fadeToImage)"/>
+    <rect x="92" y="98" width="690" height="350" rx="28" fill="#FFFFFF" opacity="0.38" stroke="#FFFFFF" stroke-opacity="0.42"/>
+
+    <text x="108" y="178" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', 'Segoe UI', Arial, sans-serif" font-size="40" font-weight="800" fill="#0F172A">
+      ?????
+    </text>
+
+    <text x="108" y="252" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', 'Segoe UI', Arial, sans-serif" font-size="74" font-weight="900" fill="url(#titleGrad)">
+      ?? Jmsgfc
+    </text>
+
+    <rect x="110" y="286" width="6" height="56" rx="3" fill="url(#roleBar)"/>
+
+    <text x="136" y="326" font-family="JetBrains Mono, Consolas, monospace" font-size="28" font-weight="700" letter-spacing="1" fill="#334155">
+      ??? ???
+    </text>
+
+    <text x="110" y="382" font-family="'Malgun Gothic', 'Apple SD Gothic Neo', 'Segoe UI', Arial, sans-serif" font-size="24" fill="#475569">
+      <tspan x="110" dy="0">????? ?? ???? ????? ?? Web ??</tspan>
+      <tspan x="110" dy="40">??? ????.</tspan>
+      <tspan x="110" dy="40">React, Next.js, TypeScript, Node.js, AI ? ????</tspan>
+    </text>
+  </g>
+</svg>
