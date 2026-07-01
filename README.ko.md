@@ -29,7 +29,7 @@
 
 <table width="100%">
 <tr><td align="center">
-### 프론트엔드
+<b>프론트엔드</b>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
@@ -43,7 +43,7 @@
 </p>
 </td></tr>
 <tr><td align="center">
-### 백엔드
+<b>백엔드</b>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -56,7 +56,7 @@
 </p>
 </td></tr>
 <tr><td align="center">
-### AI / Agent 도구
+<b>AI / Agent 도구</b>
 <p>
   <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -69,7 +69,7 @@
 </p>
 </td></tr>
 <tr><td align="center">
-### 데이터베이스 / ORM / ODM
+<b>데이터베이스 / ORM / ODM</b>
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -81,7 +81,7 @@
 </p>
 </td></tr>
 <tr><td align="center">
-### 클라우드 / BaaS
+<b>클라우드 / BaaS</b>
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -91,7 +91,7 @@
 </p>
 </td></tr>
 <tr><td align="center">
-### 플랫폼 / 도구
+<b>플랫폼 / 도구</b>
 <p>
   <img src="https://img.shields.io/badge/iOS-111111?style=for-the-badge&logo=ios&logoColor=white" />
   <img src="https://img.shields.io/badge/macOS-111111?style=for-the-badge&logo=apple&logoColor=white" />
