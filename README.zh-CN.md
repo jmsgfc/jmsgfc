@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="./README.md">English Version</a> | <b>中文版本</b>
+  <a href="./README.md">English</a> | <b>中文</b> | <a href="./README.ja.md">日本語</a> | <a href="./README.ko.md">한국어</a> | <a href="./README.fr.md">Français</a> | <a href="./README.de.md">Deutsch</a>
 </p>
 
 <div align="center">

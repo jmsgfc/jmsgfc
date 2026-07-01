@@ -1,5 +1,5 @@
 <p align="center">
-  <b>English</b> | <a href="./README.zh-CN.md">中文</a> | <a href="./README.ja.md">日本語</a> | <a href="./README.ko.md">한국어</a> | <a href="./README.fr.md">Français</a> | <a href="./README.de.md">Deutsch</a>
+  <a href="./README.md">English</a> | <a href="./README.zh-CN.md">中文</a> | <b>日本語</b> | <a href="./README.ko.md">한국어</a> | <a href="./README.fr.md">Français</a> | <a href="./README.de.md">Deutsch</a>
 </p>
 
 <div align="center">
@@ -29,21 +29,20 @@
   </a>
 </p>
 
-<img src="./assets/intro-title.gif" width="100%" alt="Full-Stack Developer | AI & Web Enthusiast | Lifelong Learner" />
-
-<img src="./assets/intro-subtext.png" width="94%" alt="I build modern, scalable, and user-friendly applications. Passionate about turning ideas into real-world products with React, Next.js, TypeScript, Python, and Node.js." />
+<h1 align="center">こんにちは、Jmsgfcです</h1>
+<p align="center">フルスタック開発、AI、Web を中心に、実用的なプロダクトづくりに取り組んでいます。</p>
+<p align="center">React、Next.js、TypeScript、Python、Node.js を使って、アイデアを実際のプロダクトへ形にするのが好きです。</p>
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 💻 技術スタック
 
 <table width="100%">
-<tr>
-<td align="center">
+<tr><td align="center">
 
-### Frontend
+### フロントエンド
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -57,12 +56,10 @@
   <img src="https://img.shields.io/badge/Lucide-EA5A5A?style=for-the-badge&logo=lucide&logoColor=white" />
 </p>
 
-</td>
-</tr>
-<tr>
-<td align="center">
+</td></tr>
+<tr><td align="center">
 
-### Backend
+### バックエンド
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -75,12 +72,10 @@
   <img src="https://img.shields.io/badge/Clerk-6D5EF5?style=for-the-badge&logo=clerk&logoColor=white" />
 </p>
 
-</td>
-</tr>
-<tr>
-<td align="center">
+</td></tr>
+<tr><td align="center">
 
-### AI / Agent Tools
+### AI / Agent ツール
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white" />
@@ -93,12 +88,10 @@
   <img src="https://img.shields.io/badge/CLI-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-</td>
-</tr>
-<tr>
-<td align="center">
+</td></tr>
+<tr><td align="center">
 
-### Database & ORM / ODM
+### データベース / ORM / ODM
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -110,12 +103,10 @@
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
-</td>
-</tr>
-<tr>
-<td align="center">
+</td></tr>
+<tr><td align="center">
 
-### Cloud / BaaS
+### クラウド / BaaS
 
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" />
@@ -125,12 +116,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-</td>
-</tr>
-<tr>
-<td align="center">
+</td></tr>
+<tr><td align="center">
 
-### Platforms / Tools
+### プラットフォーム / ツール
 
 <p>
   <img src="https://img.shields.io/badge/iOS-111111?style=for-the-badge&logo=ios&logoColor=white" />
@@ -144,13 +133,12 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827" />
 </p>
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 統計
 
 <table width="100%">
 <tr>
@@ -170,13 +158,13 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 コントリビューショングラフ
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jmsgfc&bg_color=ffffff&color=7B61FF&line=5BC85B&point=2F80ED&area=true&hide_border=true" />
 
 ---
 
-## 👾 Pac-Man Contribution
+## 👾 Pac-Man コントリビューション
 
 <p align="center">
   <picture>
@@ -188,7 +176,7 @@
 
 ---
 
-## 🐍 Snake Contribution
+## 🐍 スネークコントリビューション
 
 <p align="center">
   <picture>
@@ -200,7 +188,7 @@
 
 ---
 
-## 📊 Profile Summary
+## 📊 プロフィール概要
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jmsgfc/jmsgfc/main/profile-summary-card-output/default/1-repos-per-language.svg" width="49%" />
@@ -214,7 +202,7 @@
 
 ---
 
-## ⌨️ WakaTime Weekly Stats
+## ⌚ WakaTime 週間統計
 
 <!--START_SECTION:waka-->
 
@@ -228,7 +216,7 @@ No activity tracked
 
 ---
 
-## ⚡ Recent Activity
+## 📝 最近のアクティビティ
 
 <!--START_SECTION:activity-->
 1. Preparing my GitHub profile README.
@@ -236,42 +224,42 @@ No activity tracked
 
 ---
 
-## 🎯 Current Focus
+## 🎯 現在の注力
 
 <table width="100%">
 <tr>
 <td width="52%" valign="top">
 
-<h3>🚀 <img src="https://img.shields.io/badge/What_I'm_Working_On-DBEAFE?style=for-the-badge&logoColor=2563EB&labelColor=DBEAFE&color=DBEAFE" alt="What I'm Working On" /></h3>
+<h3>🚀 <img src="https://img.shields.io/badge/取り組み中-DBEAFE?style=for-the-badge&labelColor=DBEAFE&color=DBEAFE" alt="取り組み中" /></h3>
 
-- Building production-ready SaaS products  
-- Learning system design and DevOps  
-- Exploring AI agents, MCP, and Web3 technologies  
+- 実運用レベルの SaaS プロダクト開発  
+- システム設計と DevOps の学習  
+- AI agents、MCP、Web3 技術の探求  
 
 <br/>
 
-<h3>💜 <img src="https://img.shields.io/badge/How_I_Like_To_Work-F3E8FF?style=for-the-badge&logoColor=7C3AED&labelColor=F3E8FF&color=F3E8FF" alt="How I Like To Work" /></h3>
+<h3>💜 <img src="https://img.shields.io/badge/大切にしている働き方-F3E8FF?style=for-the-badge&labelColor=F3E8FF&color=F3E8FF" alt="大切にしている働き方" /></h3>
 
-- Shipping practical tools with clear user value  
-- Contributing to open source and learning in public  
-- Staying open to collaboration and interesting ideas  
+- ユーザー価値のある実用的なツールを作る  
+- オープンソースに関わり、公開しながら学ぶ  
+- 協力や新しいアイデアに対してオープンである  
 
 <br/>
 
 <blockquote>
-  <i>Ship practical things.</i><br/>
-  <i>Learn continuously.</i><br/>
-  <i>Stay open.</i><br/><br/>
+  <i>実用的なものを作る。</i><br/>
+  <i>学び続ける。</i><br/>
+  <i>オープンでいる。</i><br/><br/>
   <img src="https://img.shields.io/badge/Keep_Building-FFEDD5?style=for-the-badge&labelColor=FFEDD5&color=FFEDD5" alt="Keep Building" />
 </blockquote>
 
 </td>
 <td width="48%" valign="top">
 
-<h3>✨ <img src="https://img.shields.io/badge/Focus_Snapshot-DBEAFE?style=for-the-badge&labelColor=DBEAFE&color=DBEAFE" alt="Focus Snapshot" /></h3>
+<h3>✨ <img src="https://img.shields.io/badge/フォーカス概要-DBEAFE?style=for-the-badge&labelColor=DBEAFE&color=DBEAFE" alt="フォーカス概要" /></h3>
 
 <p>
-  Building practical web products while steadily leveling up architecture, automation, and AI workflow design.
+  実用的な Web プロダクトを作りながら、アーキテクチャ、オートメーション、AI ワークフロー設計を着実に伸ばしています。
 </p>
 
 <p align="center">
@@ -284,7 +272,7 @@ No activity tracked
 
 <br/>
 
-<h3>🧩 <img src="https://img.shields.io/badge/Focus_Stack-F3E8FF?style=for-the-badge&labelColor=F3E8FF&color=F3E8FF" alt="Focus Stack" /></h3>
+<h3>🧩 <img src="https://img.shields.io/badge/フォーカス技術-F3E8FF?style=for-the-badge&labelColor=F3E8FF&color=F3E8FF" alt="フォーカス技術" /></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0F172A" />
@@ -303,24 +291,24 @@ No activity tracked
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ 注目プロジェクト
 
 <p align="center">
-  A few projects that best represent my work across tooling, automation, and product engineering.
+  ツール開発、自動化、プロダクトエンジニアリングを代表するプロジェクトをいくつか掲載しています。
 </p>
 
 <table width="100%" cellpadding="12">
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/jmsgfc/pgshHacker"><b>🖥️ pgshHacker</b></a><br/>
-  PGSH points utility and hands-on practice guide.<br/><br/>
+  PGSH ポイント運用と実践練習のためのツール。<br/><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Stars-6-F59E0B?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Forks-1-F97316?style=flat-square&logo=git&logoColor=white" />
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/jmsgfc/docx-paper-formatter"><b>📄 docx-paper-formatter</b></a><br/>
-  Paper formatting SKILL for academic writing standards.<br/><br/>
+  学術執筆基準に合わせて書式を自動調整する SKILL。<br/><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Stars-7-F59E0B?style=flat-square&logo=github&logoColor=white" />
 </td>
@@ -328,13 +316,13 @@ No activity tracked
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/jmsgfc/ensp-mcp"><b>🧠 ensp-mcp</b></a><br/>
-  MCP network automation toolkit for AI agents.<br/><br/>
+  AI agents 向け MCP ネットワーク自動化ツール。<br/><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Stars-19-F59E0B?style=flat-square&logo=github&logoColor=white" />
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/jmsgfc/Elective-Course-Management-System-"><b>🎓 Elective Course System</b></a><br/>
-  Elective course selection and academic workflow system.<br/><br/>
+  選択科目と学務フローを扱う管理システム。<br/><br/>
   <img src="https://img.shields.io/badge/Course_System-2563EB?style=flat-square&logo=googlescholar&logoColor=white" />
   <img src="https://img.shields.io/github/stars/jmsgfc/Elective-Course-Management-System-?style=flat-square&color=F59E0B&logo=github&logoColor=white&label=Stars" />
 </td>
@@ -343,27 +331,27 @@ No activity tracked
 
 <p align="center">
   <a href="https://www.jmsgfc.me">
-    <b>View more repositories &rarr;</b>
+    <b>さらにリポジトリを見る &rarr;</b>
   </a>
 </p>
 
 ---
 
-## 🏆 Highlights
+## 🌟 ハイライト
 
 <table width="100%">
 <tr>
 <td width="33%" align="center">
-  <b>Full-Stack Building</b><br/>
-  Turning product ideas into polished web experiences.
+  <b>フルスタック構築</b><br/>
+  アイデアを洗練された Web 体験へと形にします。
 </td>
 <td width="33%" align="center">
-  <b>AI & MCP Exploration</b><br/>
-  Building practical tools around agents, automation, and workflows.
+  <b>AI と MCP の探求</b><br/>
+  agents、オートメーション、ワークフロー周りの実用ツールを作ります。
 </td>
 <td width="33%" align="center">
-  <b>Open Collaboration</b><br/>
-  Sharing projects, learning in public, and improving continuously.
+  <b>オープンな協働</b><br/>
+  学びを公開し、プロジェクトを共有し、継続的に改善します。
 </td>
 </tr>
 </table>
@@ -396,5 +384,5 @@ No activity tracked
 <br/>
 
 <p align="center">
-  <img src="./assets/quote-float.gif" width="76%" alt="The best way to predict the future is to invent it." />
+  <i>「未来を予測する最良の方法は、自ら創り出すことだ。」</i>
 </p>
