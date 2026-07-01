@@ -155,7 +155,7 @@
 <table width="100%">
 <tr>
 <td width="50%">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=jmsgfc&show_icons=true&hide_border=true&bg_color=ffffff&title_color=7B61FF&text_color=334155&icon_color=7B61FF" />
+  <img width="100%" src="https://raw.githubusercontent.com/jmsgfc/jmsgfc/main/profile-summary-card-output/default/0-profile-details.svg" />
 </td>
 <td width="50%">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=jmsgfc&hide_border=true&background=FFFFFF&ring=FF8A65&fire=FF8A65&currStreakLabel=FF6B00&sideLabels=334155&dates=64748B" />
@@ -201,10 +201,6 @@
 ---
 
 ## 📊 Profile Summary
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jmsgfc/jmsgfc/main/profile-summary-card-output/default/0-profile-details.svg" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jmsgfc/jmsgfc/main/profile-summary-card-output/default/1-repos-per-language.svg" width="49%" />
@@ -321,16 +317,30 @@ No activity tracked
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/jmsgfc/docx-paper-formatter">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmsgfc&repo=docx-paper-formatter&hide_border=true&bg_color=ffffff&title_color=2F80ED&text_color=334155&icon_color=F59E0B" />
-  </a>
+  <table width="100%">
+  <tr>
+  <td>
+    <a href="https://github.com/jmsgfc/docx-paper-formatter"><b>📄 docx-paper-formatter</b></a><br/>
+    A SKILL to automatically adjust paper formatting according to academic writing standards.<br/><br/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stars-7-F59E0B?style=flat-square&logo=github&logoColor=white" />
+  </td>
+  </tr>
+  </table>
 </td>
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/jmsgfc/ensp-mcp">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmsgfc&repo=ensp-mcp&hide_border=true&bg_color=ffffff&title_color=2F80ED&text_color=334155&icon_color=F59E0B" />
-  </a>
+  <table width="100%">
+  <tr>
+  <td>
+    <a href="https://github.com/jmsgfc/ensp-mcp"><b>🧠 ensp-mcp</b></a><br/>
+    MCP network automation configuration toolkit for AI agents.<br/><br/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stars-19-F59E0B?style=flat-square&logo=github&logoColor=white" />
+  </td>
+  </tr>
+  </table>
 </td>
 <td width="50%">
   <a href="https://github.com/jmsgfc/play-problem">
