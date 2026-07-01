@@ -312,9 +312,17 @@ No activity tracked
 <table width="100%">
 <tr>
 <td width="50%">
-  <a href="https://github.com/jmsgfc/pgshHacker">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmsgfc&repo=pgshHacker&hide_border=true&bg_color=ffffff&title_color=2F80ED&text_color=334155&icon_color=F59E0B" />
-  </a>
+  <table width="100%">
+  <tr>
+  <td>
+    <a href="https://github.com/jmsgfc/pgshHacker"><b>🖥️ pgshHacker</b></a><br/>
+    Gamified utility and guide for PGSH points workflows and hands-on practice.<br/><br/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stars-6-F59E0B?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Forks-1-F97316?style=flat-square&logo=git&logoColor=white" />
+  </td>
+  </tr>
+  </table>
 </td>
 <td width="50%">
   <table width="100%">
@@ -343,9 +351,16 @@ No activity tracked
   </table>
 </td>
 <td width="50%">
-  <a href="https://github.com/jmsgfc/play-problem">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=jmsgfc&repo=play-problem&hide_border=true&bg_color=ffffff&title_color=2F80ED&text_color=334155&icon_color=F59E0B" />
-  </a>
+  <table width="100%">
+  <tr>
+  <td>
+    <a href="https://github.com/jmsgfc/Elective-Course-Management-System-"><b>🎓 Elective-Course-Management-System-</b></a><br/>
+    Elective course selection and academic workflow management system for campus scenarios.<br/><br/>
+    <img src="https://img.shields.io/badge/Course_System-2563EB?style=flat-square&logo=googlescholar&logoColor=white" />
+    <img src="https://img.shields.io/github/stars/jmsgfc/Elective-Course-Management-System-?style=flat-square&color=F59E0B&logo=github&logoColor=white&label=Stars" />
+  </td>
+  </tr>
+  </table>
 </td>
 </tr>
 </table>
