@@ -311,56 +311,32 @@ No activity tracked
 
 <table width="100%">
 <tr>
-<td width="50%">
-  <table width="100%">
-  <tr>
-  <td>
-    <a href="https://github.com/jmsgfc/pgshHacker"><b>🖥️ pgshHacker</b></a><br/>
-    Gamified utility and guide for PGSH points workflows and hands-on practice.<br/><br/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Stars-6-F59E0B?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Forks-1-F97316?style=flat-square&logo=git&logoColor=white" />
-  </td>
-  </tr>
-  </table>
+<td width="50%" valign="top">
+  <a href="https://github.com/jmsgfc/pgshHacker"><b>🖥️ pgshHacker</b></a><br/>
+  PGSH points utility and hands-on practice guide.<br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars-6-F59E0B?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Forks-1-F97316?style=flat-square&logo=git&logoColor=white" />
 </td>
-<td width="50%">
-  <table width="100%">
-  <tr>
-  <td>
-    <a href="https://github.com/jmsgfc/docx-paper-formatter"><b>📄 docx-paper-formatter</b></a><br/>
-    A SKILL to automatically adjust paper formatting according to academic writing standards.<br/><br/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Stars-7-F59E0B?style=flat-square&logo=github&logoColor=white" />
-  </td>
-  </tr>
-  </table>
+<td width="50%" valign="top">
+  <a href="https://github.com/jmsgfc/docx-paper-formatter"><b>📄 docx-paper-formatter</b></a><br/>
+  Paper formatting SKILL for academic writing standards.<br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars-7-F59E0B?style=flat-square&logo=github&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td width="50%">
-  <table width="100%">
-  <tr>
-  <td>
-    <a href="https://github.com/jmsgfc/ensp-mcp"><b>🧠 ensp-mcp</b></a><br/>
-    MCP network automation configuration toolkit for AI agents.<br/><br/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Stars-19-F59E0B?style=flat-square&logo=github&logoColor=white" />
-  </td>
-  </tr>
-  </table>
+<td width="50%" valign="top">
+  <a href="https://github.com/jmsgfc/ensp-mcp"><b>🧠 ensp-mcp</b></a><br/>
+  MCP network automation toolkit for AI agents.<br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars-19-F59E0B?style=flat-square&logo=github&logoColor=white" />
 </td>
-<td width="50%">
-  <table width="100%">
-  <tr>
-  <td>
-    <a href="https://github.com/jmsgfc/Elective-Course-Management-System-"><b>🎓 Elective-Course-Management-System-</b></a><br/>
-    Elective course selection and academic workflow management system for campus scenarios.<br/><br/>
-    <img src="https://img.shields.io/badge/Course_System-2563EB?style=flat-square&logo=googlescholar&logoColor=white" />
-    <img src="https://img.shields.io/github/stars/jmsgfc/Elective-Course-Management-System-?style=flat-square&color=F59E0B&logo=github&logoColor=white&label=Stars" />
-  </td>
-  </tr>
-  </table>
+<td width="50%" valign="top">
+  <a href="https://github.com/jmsgfc/Elective-Course-Management-System-"><b>🎓 Elective Course System</b></a><br/>
+  Elective course selection and academic workflow system.<br/><br/>
+  <img src="https://img.shields.io/badge/Course_System-2563EB?style=flat-square&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/jmsgfc/Elective-Course-Management-System-?style=flat-square&color=F59E0B&logo=github&logoColor=white&label=Stars" />
 </td>
 </tr>
 </table>

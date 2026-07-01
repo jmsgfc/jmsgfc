@@ -311,56 +311,32 @@ No activity tracked
 
 <table width="100%">
 <tr>
-<td width="50%">
-  <table width="100%">
-  <tr>
-  <td>
-    <a href="https://github.com/jmsgfc/pgshHacker"><b>🖥️ pgshHacker</b></a><br/>
-    面向 PGSH 积分流程与实操练习的实用工具与教程。<br/><br/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Stars-6-F59E0B?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Forks-1-F97316?style=flat-square&logo=git&logoColor=white" />
-  </td>
-  </tr>
-  </table>
+<td width="50%" valign="top">
+  <a href="https://github.com/jmsgfc/pgshHacker"><b>🖥️ pgshHacker</b></a><br/>
+  面向 PGSH 积分流程与实操练习的实用工具。<br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars-6-F59E0B?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Forks-1-F97316?style=flat-square&logo=git&logoColor=white" />
 </td>
-<td width="50%">
-  <table width="100%">
-  <tr>
-  <td>
-    <a href="https://github.com/jmsgfc/docx-paper-formatter"><b>📄 docx-paper-formatter</b></a><br/>
-    一个用于按学术写作规范自动调整论文格式的 SKILL。<br/><br/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Stars-7-F59E0B?style=flat-square&logo=github&logoColor=white" />
-  </td>
-  </tr>
-  </table>
+<td width="50%" valign="top">
+  <a href="https://github.com/jmsgfc/docx-paper-formatter"><b>📄 docx-paper-formatter</b></a><br/>
+  用于按学术写作规范自动调整论文格式的 SKILL。<br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars-7-F59E0B?style=flat-square&logo=github&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td width="50%">
-  <table width="100%">
-  <tr>
-  <td>
-    <a href="https://github.com/jmsgfc/ensp-mcp"><b>🧠 ensp-mcp</b></a><br/>
-    面向 AI Agent 的 MCP 网络自动化配置工具。<br/><br/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Stars-19-F59E0B?style=flat-square&logo=github&logoColor=white" />
-  </td>
-  </tr>
-  </table>
+<td width="50%" valign="top">
+  <a href="https://github.com/jmsgfc/ensp-mcp"><b>🧠 ensp-mcp</b></a><br/>
+  面向 AI Agent 的 MCP 网络自动化工具。<br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars-19-F59E0B?style=flat-square&logo=github&logoColor=white" />
 </td>
-<td width="50%">
-  <table width="100%">
-  <tr>
-  <td>
-    <a href="https://github.com/jmsgfc/Elective-Course-Management-System-"><b>🎓 Elective-Course-Management-System-</b></a><br/>
-    用于选修课选课与教学流程管理的课程管理系统。<br/><br/>
-    <img src="https://img.shields.io/badge/Course_System-2563EB?style=flat-square&logo=googlescholar&logoColor=white" />
-    <img src="https://img.shields.io/github/stars/jmsgfc/Elective-Course-Management-System-?style=flat-square&color=F59E0B&logo=github&logoColor=white&label=Stars" />
-  </td>
-  </tr>
-  </table>
+<td width="50%" valign="top">
+  <a href="https://github.com/jmsgfc/Elective-Course-Management-System-"><b>🎓 选课管理系统</b></a><br/>
+  用于选修课选课与教学流程管理的课程系统。<br/><br/>
+  <img src="https://img.shields.io/badge/Course_System-2563EB?style=flat-square&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/jmsgfc/Elective-Course-Management-System-?style=flat-square&color=F59E0B&logo=github&logoColor=white&label=Stars" />
 </td>
 </tr>
 </table>
